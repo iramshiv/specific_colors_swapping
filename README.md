@@ -5,6 +5,6 @@
     <img src="resulted.jpg" title="Target Image (Red)" width="360" height="360">
 </p>
 
-  - Required library : PIL
+  - Required library : PIL, Python
 
   - Image Reference: "https://unsplash.com/photos/QeVmJxZOv3k?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink"
